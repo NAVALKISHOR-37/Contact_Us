@@ -1,0 +1,15 @@
+
+.con_sec h1{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.con_sec p{
+    font-weight: 500;
+}
+
+.con_sec{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
